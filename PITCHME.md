@@ -1,4 +1,4 @@
-# HSLIDE
+#HSLIDE
 
 ## Fantasy League 
 
@@ -7,14 +7,20 @@
 - components
 - ideas
 
-# HSLIDE
+#HSLIDE
 
 ## What is It?
 
-# HSLIDE
+#HSLIDE
 
 ## Information Needed?
 
-# HSLIDE
+#HSLIDE
 
 ## Components
+
+#HSLIDE
+
+## Thanks!
+
+- twitter.com/icedwater
